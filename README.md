@@ -1,5 +1,4 @@
-- Hi, I’m @JohannThomasGeorge
-- That's it
+- Hi, I’m Johann 
 
 <!---
 JohannThomasGeorge/JohannThomasGeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
